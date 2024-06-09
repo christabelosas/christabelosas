@@ -12,7 +12,7 @@
    
  
 </head>
-<a href="portfolioCodes.html">
+<a href="https://github.com/christabelosas/SummaryPage">
     Click to Summary Page
 </a>
 <body>
