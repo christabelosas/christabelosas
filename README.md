@@ -12,10 +12,10 @@
     <header>
         <nav class="sliding-nav">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="https://github.com/christabelosas/christabelosas/edit/main/README.md">Home</a></li>
                 <li><a href="https://github.com/christabelosas/AboutMe/edit/main/README.md">About</a></li>
                 <li><a href="https://github.com/christabelosas/Projects/blob/main/README.md">Projects</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="https://github.com/christabelosas/Contact/blob/main/README.md">Contact</a></li>
             </ul>
         </nav>
     </header>
