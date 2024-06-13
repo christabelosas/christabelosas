@@ -22,7 +22,7 @@
     <main>
         <h1>Welcome to My Data Science Portfolio</h1>
         <h2>Discover my projects, skills, and experiences in the field of data science.</h2>
-        <img src="https://i.imgur.com/hIVTcwS.jpeg" alt="My Portrait" class="logos">
+        <img src="https://i.imgur.com/10c9lZQ.png" alt="My Portrait" class="logos">
         <h3>Making Sense and Insight from Data</h3>
         <a href="https://github.com/christabelosas/SummaryPage">Click to Summary Page</a>
     </main>
