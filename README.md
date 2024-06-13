@@ -12,7 +12,7 @@
     <header>
         <nav class="sliding-nav">
             <ul>
-                <li><a href="https://github.com/christabelosas/christabelosas">Home</a></li>
+                <li><a href="https://github.com/christabelosas/christabelosas">Home</a></li
                 <li><a href="https://github.com/christabelosas/AboutMe">About</a></li>
                 <li><a href="https://github.com/christabelosas/Projects">Projects</a></li>
                 <li><a href="https://github.com/christabelosas/Contact/">Contact</a></li>
